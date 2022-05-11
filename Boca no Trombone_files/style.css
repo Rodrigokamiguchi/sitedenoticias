@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'UnifrakturMaguntia';
+    src: url(../fonts/UnifrakturMaguntia/UnifrakturMaguntia-Regular.ttf);
+}
+.logo{
+    font-family: UnifrakturMaguntia;
+    font-size: 5rem;
+}
